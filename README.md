@@ -63,27 +63,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedSaid-Medini&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSaid-Medini&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaid-Medini&layout=compact&theme=radical" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSaid-Medini&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## ✨ Inspirational Quote
